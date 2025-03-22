@@ -1,0 +1,25 @@
+# Next.js build dosyaları
+**/.next/
+
+# Node.js bağımlılıkları
+**/node_modules/
+
+# Ortaya çıkan dosyalar
+**/.turbo/
+**/dist/
+**/out/
+
+# Çevresel değişkenler
+**/.env*
+!.env.example
+
+# Log dosyaları
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+
+# IDE ve OS dosyaları
+.vscode/
+.DS_Store
+Thumbs.db
